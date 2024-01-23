@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23419083319",
+    "project_id": "sezen-e1d49",
+    "storage_bucket": "sezen-e1d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23419083319:android:e2131872b64786f52e3db2",
+        "android_client_info": {
+          "package_name": "com.example.learning_block"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1Stq6IROJNsMcH0X1jo7gKLPs1jpgzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23419083319:android:a5c5d6b24698ce9a2e3db2",
+        "android_client_info": {
+          "package_name": "com.example.sezen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1Stq6IROJNsMcH0X1jo7gKLPs1jpgzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
